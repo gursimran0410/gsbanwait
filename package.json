@@ -1,22 +1,6 @@
 {
-  "name": "gsbanwait",
+  "name": "Gursimran Singh",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/gursimran0410/gsbanwait.git"
-  },
   "author": "Gursimran Singh",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/gursimran0410/gsbanwait/issues"
-  },
-  "homepage": "https://github.com/gursimran0410/gsbanwait#readme",
-  "dependencies": {
-    "mustache": "^4.0.1"
-  }
+  "license": "ISC"
 }
